@@ -2,8 +2,7 @@
 .env*
 
 #files
-*.css
-*.js
+main.css
 
 #misc
 .vscode
